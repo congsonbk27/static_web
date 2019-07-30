@@ -1,0 +1,52 @@
+.parents_zone {
+	width: 900px;
+	height: 900px;
+	background-color: #536;
+	position: relative;
+}
+.header {
+	width: 100%;
+	height: 10%;
+	background-color: #336;
+	position: absolute;
+	top: 0%;
+}
+.main_content {
+	width: 100%;
+	height: 80%;
+	background-color: red;
+	position: absolute;
+	top: 10%;
+	position: relative;
+}
+.left_zone {
+	width: 20%;
+	height: 100%;
+	background-color: green;
+	/*position: absolute;*/
+	/*top: 10%;*/
+}
+.center_zone {
+	width: 60%;
+	height: 100%;
+	background-color: blue;
+	position: absolute;
+	left: 20%;
+	top: 0%;
+}
+.right_zone {
+	width: 20%;
+	height: 100%;
+	background-color: yellow;
+	position: absolute;
+	right: 0%;
+	top: 0%;
+}
+.footter {
+	width: 100%;
+	height: 10%;
+	background-color: #336;
+	position: absolute;
+	position: absolute;
+	top: 90%;
+}
